@@ -4,6 +4,7 @@ A script to generate weekly fantasy stats for your league. The code ain't pretty
 TO GET THIS TO WORK:
 Modify the GetOptimalScore method (comment explaining what)
 Modify the __main__ block at the bottom to include your league info - code won't compile til you do.
+Change the WEEK_NUM variable at the top of the script for the week you wanna generate stats for
 
 Using this API: https://github.com/cwendt94/espn-api/wiki
 
