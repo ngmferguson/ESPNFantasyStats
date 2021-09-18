@@ -257,7 +257,7 @@ def PerfectRoster(file, boxScores):
             file.write(team + "\n")
     file.write("\n")
 
-#Change this for your league format
+#Change this for your league format, you'll want to delete/add variables as needed and also add/remove the corresponding elif blocks.
 def GetOptimalScore(roster):
     QB = 1;
     RB = 2;
